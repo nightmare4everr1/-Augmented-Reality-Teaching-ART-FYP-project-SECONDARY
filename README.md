@@ -1,8 +1,6 @@
 # Unity-Photon-AR-demo
 
 this is second part, go check this repository first [Augmented-Reality-Teaching-ART-FYP-project-MAIN]
-
-
 Project Won 1st Position in FIT 2017 held in Serena Islamabad for demonstrating proof of concept which has commercial potential
 
 
